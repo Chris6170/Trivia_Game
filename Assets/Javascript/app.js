@@ -1,5 +1,5 @@
 var responses = []
-var number = 30;
+var number = 45;
 var intervalId;
 var answers = ["C", "B", "A", "D", "C", "D", "B", "C", "A", "D"];
 var tot = answers.length;
